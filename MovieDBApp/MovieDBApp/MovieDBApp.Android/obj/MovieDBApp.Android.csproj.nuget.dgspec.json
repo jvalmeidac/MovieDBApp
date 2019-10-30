@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {}
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
         "projectName": "MovieDBApp.Android",
-        "projectPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
+        "projectPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\MovieDBApp.Android.csproj",
         "packagesPath": "C:\\Users\\lab3\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
-                "projectPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj"
+              "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
+                "projectPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj"
               }
             }
           }
@@ -46,46 +46,22 @@
               "target": "Package",
               "version": "[7.2.0.1367, )"
             },
-            "Xamarin.Android.Support.CustomTabs": {
-              "target": "Package",
-              "version": "[28.0.0.1, )"
-            },
-            "Xamarin.Android.Support.Design": {
-              "target": "Package",
-              "version": "[28.0.0.1, )"
-            },
-            "Xamarin.Android.Support.v4": {
-              "target": "Package",
-              "version": "[28.0.0.1, )"
-            },
-            "Xamarin.Android.Support.v7.AppCompat": {
-              "target": "Package",
-              "version": "[28.0.0.1, )"
-            },
-            "Xamarin.Android.Support.v7.CardView": {
-              "target": "Package",
-              "version": "[28.0.0.1, )"
-            },
-            "Xamarin.Android.Support.v7.MediaRouter": {
-              "target": "Package",
-              "version": "[28.0.0.1, )"
-            },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[3.6.0.344457, )"
+              "version": "[4.3.0.908675, )"
             }
           }
         }
       }
     },
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectUniqueName": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "projectName": "MovieDBApp",
-        "projectPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "packagesPath": "C:\\Users\\lab3\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
+        "outputPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -123,13 +99,21 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[7.2.0.1367, )"
             },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[3.6.0.344457, )"
+              "version": "[4.3.0.908675, )"
             }
           },
           "imports": [

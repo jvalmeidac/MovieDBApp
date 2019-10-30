@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {}
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
+    "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectUniqueName": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "projectName": "MovieDBApp",
-        "projectPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
+        "projectPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp.csproj",
         "packagesPath": "C:\\Users\\lab3\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Xamarin\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
+        "outputPath": "C:\\Users\\lab3\\Source\\Repos\\MovieDBApp\\MovieDBApp\\MovieDBApp\\MovieDBApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -49,13 +49,21 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[7.2.0.1367, )"
             },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[3.6.0.344457, )"
+              "version": "[4.3.0.908675, )"
             }
           },
           "imports": [
